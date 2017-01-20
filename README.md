@@ -1,3 +1,3 @@
 # my test repo
 
-#supercomupters are baller
+#supercomputers are baller
